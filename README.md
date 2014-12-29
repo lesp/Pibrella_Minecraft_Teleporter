@@ -29,6 +29,8 @@ The Pibrella will fit over the first 26 pins, where pin 1 is the pin nearest to 
 
 ####Installing software
 
+![alt](https://farm8.staticflickr.com/7465/16013058975_5ae9c88066_z_d.jpg)
+
 Pibrella has an easy to use Python module and to install it we need to open a new LXterminal window and enter the following. Remember to press enter after each line.
 
 ```bash
