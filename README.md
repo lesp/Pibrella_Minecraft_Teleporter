@@ -41,7 +41,7 @@ sudo pip install pibrella
 ```
 Once installed, close the terminal window and open IDLE for Python 2.7. At present the Minecraft library is currently being ported to work with Python 3. Once this is done I will update this project.
 
-Open the trasnsporter.py file, it's contents look like this.
+Open the teleporter.py file, it's contents look like this.
 
 ```python
 import pibrella
