@@ -9,4 +9,4 @@ What we will do is create a simple introduction to doing this, using an add on b
 
 ##Pibrella
 
-Pibrella is a board designed and made by two companines ![Cyntech}(http://www.cyntech.co.uk/) and ![Pimoroni](http://pimoroni.com/)
+Pibrella is a board designed and made by two companines [Cyntech](http://www.cyntech.co.uk/) and [Pimoroni](http://pimoroni.com/)
